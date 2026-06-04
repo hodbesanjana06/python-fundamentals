@@ -1,0 +1,7 @@
+Then write a Python program to:
+
+Read the file.
+Calculate the total salary.
+Calculate the average salary.
+
+Try it yourself first, and if you get stuck, send me your code and I'll review it.
